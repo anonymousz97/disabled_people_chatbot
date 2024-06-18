@@ -1,0 +1,13 @@
+<script>
+    const streamlitDoc = window.parent.document
+    button = Array.from(streamlitDoc.querySelectorAll(".stButton > button"))
+    
+    const reset_button = button.find((el) => el.innerText === "Reset")
+    const record_button = button.find((el) => el.innerText === "Ghi âm")
+
+    streamlitDoc.addEventListener('keypress', function (e) {
+        if (e.key === 'Enter') {
+            record_button.click()
+        }
+    });
+</script>
