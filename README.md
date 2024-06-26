@@ -4,5 +4,8 @@
 
 
 Demo trên youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SPOWk2eRYrw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://www.youtube.com/watch?v=SPOWk2eRYrw" target="_blank">
+    <img src="https://img.youtube.com/vi/SPOWk2eRYrw/0.jpg" alt="Xem video trên YouTube">
+</a>
 
