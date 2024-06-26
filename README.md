@@ -16,5 +16,10 @@ Demo trên youtube
     <img src="https://img.youtube.com/vi/SPOWk2eRYrw/0.jpg" alt="Xem video trên YouTube">
 </a>
 
-Mọi thông tin và góp ý xin liên hệ : 
-Bùi Chí Minh (buichiminh.cntt@gmail.com)
+Mọi thông tin và góp ý xin liên hệ : </br>
+Minh Bui (buichiminh.cntt@gmail.com)
+</br>
+Dung Nguyen </br>
+Dung Truong </br>
+Kien Le
+
