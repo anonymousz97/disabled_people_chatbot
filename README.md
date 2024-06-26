@@ -19,7 +19,8 @@ Demo trên youtube
 Mọi thông tin và góp ý xin liên hệ : </br>
 Minh Bui (buichiminh.cntt@gmail.com)
 </br>
+Kien Le </br>
 Dung Nguyen </br>
 Dung Truong </br>
-Kien Le
+
 
